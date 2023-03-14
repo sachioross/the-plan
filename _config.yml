@@ -1,4 +1,4 @@
-theme: pages-themes/slate@v0.2.0
+theme: pages-themes/slate
 plugins: 
 - jekyll-remote-theme
 title: Doug's Path to Embetterment
