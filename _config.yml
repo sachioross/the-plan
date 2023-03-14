@@ -1,5 +1,0 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins: 
-- jekyll-remote-theme
-title: Doug's Path to Embetterment
-description: A tracking log for Doug's personal journey towards a more fulfilling life. 
