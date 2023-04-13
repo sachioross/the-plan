@@ -22,14 +22,20 @@
                 font-size: 1.1em;
             }
 
-            .vital-sign {
-                background-color: #bbb;
-                padding: 0.5em;
+            .task-vitals {
+                display: grid;
+                grid-template-columns: 25% 25% 1fr;
+            
 
-                .vital-sign-header {
-                    border-bottom: thin solid #999;
-                    margin-bottom: 0.5em;
-                    padding-bottom: 0.25em;
+                .vital-sign {
+                    background-color: #bbb;
+                    padding: 0.5em;
+
+                    .vital-sign-header {
+                        border-bottom: thin solid #999;
+                        margin-bottom: 0.5em;
+                        padding-bottom: 0.25em;
+                    }
                 }
             }
 
