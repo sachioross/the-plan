@@ -3,10 +3,49 @@
 
 @import "{{ site.theme }}";
 
-.markdown-body h1 {
-    color: red;
-}
+.project-group {
 
-table thead tr {
-    color: red;
+    padding: 3em 1em;
+    border-width: thin;
+    border-color: red;
+
+    .project-tasks {
+        .task-card {
+            display: flex;
+            flex-direction: column;
+            border: 1px solid #bbb;
+            padding: 0.5em;
+
+            .task-header {
+                padding-bottom: 1em;
+                font-weight: bold;
+                font-size: 1.1em;
+            }
+
+            .vital-sign {
+                background-color: #bbb;
+                padding: 0.5em;
+
+                .vital-sign-header {
+                    border-bottom: thin solid #999;
+                    margin-bottom: 0.5em;
+                    padding-bottom: 0.25em;
+                }
+            }
+
+            .additional-detail {
+                display: grid;
+                grid-template-columns: 25% 1fr;
+                padding: 0.5em 0;
+ 
+                &:not(:last-child) {
+                    border-bottom: thin solid #999;
+                }
+
+                .additional-detail-header {
+                    font-weight: bold;
+                }
+            }
+        }
+    }
 }
