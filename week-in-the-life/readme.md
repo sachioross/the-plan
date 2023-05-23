@@ -34,6 +34,22 @@ As my ideal outlook would involve a partner and, eventually, a family; I'm adjus
     - 2 days a week (4-6 hours / day): Working in the shop
     - 3 days a week (1-3 hours): development activities (game, software project, etc.)
 
+### Exploration Q&A
+
+1. What might this scenario tell you about what's important, not important, and your relative heirarchy of values?
+    - I'm realizing that this scenario is very, very heavily focusing on independence in how I work and having more physically active work. It's highlighting my desire to work how I want, have both physical and virtual outlets for creativity, and allocate some efforts to supporting others. 
+1. What feels most appealing about this scenario?
+    - For the most part it's complete and total independence in how I work.
+1. What feels most exciting about this scenario?
+    - Being a lot more active and seeing creations come to fruition in a physical, tangible way.
+1. What seems most challenging about this scenario?
+    - Social interaction as the majority of the activities are individual activities and having social interaction would have to be a specific effort vs. happening as part of the daily activities. A related challenge: the _fear_ around income generation (see next bullet because I think it really is more logistical).
+1. What do you see as the biggest logistical hurdle(s) for this scenario?
+    - The primary income generating activities in this scenario might be game related and furntiure building; both of which I'm novice at the very best at this time; so creating a sufficient income from this scenario would be the largest logistical hurdle (and the associated fear a challenge).
+1. What experiments could you create to test aspects of these scenarios? ('minimum viable experiment' ?)
+    - I've had one or two friends suggest maybe creating a piece of furniture and selling it on Etsy or something. I think that would be a viable minimum test because either I'll sell a piece of furniture and get excited or I won't sell the furniture and I'll have another piece to decorate the house; in either case it wouldn't be a wasted effort. 
+    - Similarly, I could try to target developing a much, much smaller-scale game and attempeting to distrbute that product. Harder (I think) than creating and selling a piece of furniture, but potentially source of continuing income generation.
+
 # Week in the Life (WITL) - Scenario 2
 
 This scenario focuses heavily on travel and consulting, leaning in on the enjoyment of being able to help shape new ideas and foster creativity. 
@@ -68,3 +84,20 @@ As my ideal outlook would involve a partner and, eventually, a family; I'm adjus
     - 1 day for shop/home projects (expectation is duration may not officially drop, but productivty might with balancing family needs)
     - 1/2 day for decompress / sanity
 
+### Exploration Q&A
+
+1. What might this scenario tell you about what's important, not important, and your relative heirarchy of values?
+    - Both scenarios focus on creativity, albeit this one is focused on creative solutions vs. the more physical outputs of the first scenario. Both scenarios focus on travel, which is important, but this one rachets it up significantly (though, more specifically: work should travel to new locations, so repeat locations would not be satisfying). Both scenarios also focus on autonomy, however the first scenario was near-complete autonomy while the second would still involve working with clients and their needs. I can't tell to what extent, but "the desire to feel important," is floating around in the mind. 
+1. What feels most appealing about this scenario?
+    - This still allows me to work in the aspect of consulting that I most enjoyed, which is an area of comfort, while also doing so on my own terms. 
+1. What feels most exciting about this scenario?
+    - The ability to resume traveling, exploring new cities, and getting to know new people
+1. What seems most challenging about this scenario?
+    - Developing the initial network and brand of someone that can support companies outside of Adobe products and/or purely from a technical development perspective. And this may add to challenges from a relationship perspective (counter: it may also help me find people whom are more like myself).
+1. What do you see as the biggest logistical hurdle(s) for this scenario?
+    - The initial time to accomplish building of a personal brand and consistent clientel, both for the actual marketing aspects and the associated business functions, may take far more time than outlined for a significant time (6-18 months) before things are consistent enough to start restricting the window to those 3-4 days. Also: the customers.
+1. What experiments could you create to test aspects of these scenarios? ('minimum viable experiment' ?)
+    - I could attend meetups / local conferences on technology and inquire and converse with various (ideally) business leaders and start to build a network
+        - As that network pans out, maybe offer to assist pro-bono on some ideas and strategy; if they're happy with the conversations ask for reference or leads
+    - I could refocus on Rebuilding Together and help them grow in their capabilities and use them for the same purpose (reference / lead) into other opportunities; non-profit or otherwise
+    - I could possibly reach out to some of my contacts made along the way, introduce the idea, and get their input and advice (along with potential references) 
